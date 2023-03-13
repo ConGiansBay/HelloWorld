@@ -16,3 +16,6 @@ git branch
 git checkout - b {branch name}
 git merge
 git branch -d {branch name}
+
+git push
+git clone URL
