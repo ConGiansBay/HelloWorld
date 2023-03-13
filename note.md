@@ -1,5 +1,6 @@
 Repository
 Branch
+Conflict
 
 *Commands
 git init
