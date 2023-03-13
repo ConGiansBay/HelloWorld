@@ -19,3 +19,5 @@ git branch -d {branch name}
 
 git push
 git clone URL
+
+git checkout -b {branch name} origin/{branch name}
